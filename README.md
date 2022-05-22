@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioriozas
 - 👀 I’m interested in DSA, ML, Visualization, Python and I'm still a beginer for all
-- 🌱 I’m currently learning Tableau and Python
+- 🌱 Currently I'm learning Tableau and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
